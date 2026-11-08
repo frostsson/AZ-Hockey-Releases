@@ -1,12 +1,29 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!-- sparkle-sign-warning:
 IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
---><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
-  <channel>
-    <title>AZ Hockey</title>
-    <description>No newer update is available.</description>
-    <language>en</language>
-  </channel>
-</rss><!-- sparkle-signatures:
-edSignature: +WW/atTCEXDgBBmLNzrXjTiGOvi6rJEAk572HyfGk2iR0d7p77yWbucMRBmHrUBH2PkuD4cyTIAz8xPTle4xDw==
-length: 572
+-->
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+    <channel>
+        <title>AZ Hockey</title>
+        <description>AZ Hockey updates</description>
+        <language>en</language>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Sun, 08 Nov 2026 14:59:58 +0100</pubDate>
+            <link>https://github.com/frostsson/AZ-Hockey-Releases/releases/tag/1.0.0</link>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[AZ Hockey 1.0.0
+
+Open the disk image and drag AZ Hockey into your Applications folder, then sign in with your coach account.
+]]></description>
+            <enclosure url="https://github.com/frostsson/AZ-Hockey-Releases/releases/download/1.0.0/AZ-Hockey-1.0.0-update.zip" length="6631706" type="application/octet-stream" sparkle:edSignature="9bn6oLaykxMbEUrs/3JwVXkCXowyVBxwVzrneoWi8eYtpJ58BcQ/Lv4NzqPscO/2iODT3XC+zr5wduu+yzVkCA=="/>
+        </item>
+    </channel>
+</rss>
+<!-- sparkle-signatures:
+edSignature: SMhXQwdoglt3Z2j2ZIvMQTLCN4DQM6QBFmHdbA9Ktj5mTYf4nAgIGNh35V6ocDMqpvcLViQjtuFbth5/WoUPBA==
+length: 1572
 -->
