@@ -8,6 +8,19 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <description>AZ Hockey updates</description>
         <language>en</language>
         <item>
+            <title>1.0.1</title>
+            <pubDate>Mon, 09 Nov 2026 07:28:09 +0100</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[AZ Hockey 1.0.1
+
+Analyze Team Stats now counts Last 10 and Last 5 from the most recent completed games.
+]]></description>
+            <enclosure url="https://github.com/frostsson/AZ-Hockey-Releases/releases/download/1.0.1/AZ-Hockey-1.0.1-update.zip" length="6684042" type="application/octet-stream" sparkle:edSignature="E6PISViv/6ZtmrQfrunCL832MZC02T67Fj/KBrLU+Q4XdVz2K+RP2PUoN/MEl1ZwtdznyS+/niYKH+v7zZyMDw=="/>
+        </item>
+        <item>
             <title>1.0.0</title>
             <pubDate>Sun, 08 Nov 2026 14:59:58 +0100</pubDate>
             <link>https://github.com/frostsson/AZ-Hockey-Releases/releases/tag/1.0.0</link>
@@ -24,6 +37,6 @@ Open the disk image and drag AZ Hockey into your Applications folder, then sign 
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: SMhXQwdoglt3Z2j2ZIvMQTLCN4DQM6QBFmHdbA9Ktj5mTYf4nAgIGNh35V6ocDMqpvcLViQjtuFbth5/WoUPBA==
-length: 1572
+edSignature: zGmp5WvEJnmrM6/UHi1ry/gDsGR2q0UnMaXLV8RUkQViUsO3GwFrRaQV5sKQXRge15Idy5L6s+W2OgiXnvTNBw==
+length: 2452
 -->
