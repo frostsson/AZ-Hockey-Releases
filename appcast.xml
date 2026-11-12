@@ -8,6 +8,23 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <description>AZ Hockey updates</description>
         <language>en</language>
         <item>
+            <title>1.0.5</title>
+            <pubDate>Thu, 12 Nov 2026 09:25:41 +0100</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[AZ Hockey 1.0.5
+
+Existing Goal tags now save reliably, including Save & next.
+
+Chance and Goal rink markers now save, restore after reopening, synchronize, and clear correctly.
+
+Existing saved tagging data is preserved.
+]]></description>
+            <enclosure url="https://github.com/frostsson/AZ-Hockey-Releases/releases/download/1.0.5/AZ-Hockey-1.0.5-update.zip" length="6760715" type="application/octet-stream" sparkle:edSignature="5h3atHyXfzqDqED6R0XBD5c9O8PbtAgoxTqGosVYYhtdISHCzgDhbI2P3IfJJm6h9lxkBlxbz1+4nke2CZ1kDQ=="/>
+        </item>
+        <item>
             <title>1.0.3</title>
             <pubDate>Tue, 10 Nov 2026 14:45:46 +0100</pubDate>
             <sparkle:version>7</sparkle:version>
@@ -49,6 +66,6 @@ Analyze Team Stats now counts Last 10 and Last 5 from the most recent completed 
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: Qr2wq7xUtx/XJHtJLtSLRLbO+lZjZuLmK+SPFm2svn6YtSY81uKU1rKKo4vix0k4lzfJfVpfkLerx//b/UADAA==
-length: 3278
+edSignature: LrXyt0la+SJgStNRRc1Z24j6VJweJ91nbbq/Rowd2HOHRGYnVEzhNwV3twDtSJda4xG+d71LBV22X+MCaDvGBQ==
+length: 4274
 -->
