@@ -8,6 +8,23 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <description>AZ Hockey updates</description>
         <language>en</language>
         <item>
+            <title>1.0.6</title>
+            <pubDate>Sat, 14 Nov 2026 17:48:31 +0100</pubDate>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[AZ Hockey 1.0.6
+
+Game Card notes that fit on the visible writing lines now export completely, including the last line.
+
+The rink editor opens on the rink you selected.
+
+Existing coaching data is preserved.
+]]></description>
+            <enclosure url="https://github.com/frostsson/AZ-Hockey-Releases/releases/download/1.0.6/AZ-Hockey-1.0.6-update.zip" length="6827100" type="application/octet-stream" sparkle:edSignature="NiuzDzE8chXgq8zY9M6mN/KWiMZq9d/U3Qd5FPP1UBKJk2422Zr+cD23eT56dnHKKASiJmRzVU057cOl/0BNCQ=="/>
+        </item>
+        <item>
             <title>1.0.5</title>
             <pubDate>Thu, 12 Nov 2026 09:25:41 +0100</pubDate>
             <sparkle:version>9</sparkle:version>
@@ -66,6 +83,6 @@ Analyze Team Stats now counts Last 10 and Last 5 from the most recent completed 
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: LrXyt0la+SJgStNRRc1Z24j6VJweJ91nbbq/Rowd2HOHRGYnVEzhNwV3twDtSJda4xG+d71LBV22X+MCaDvGBQ==
-length: 4274
+edSignature: a7Lk0L6M/zCGfDAComFVEa0IVHXCLxd2tlg+OPS+k54UXn0Z0bDNuMXCQFskdsFSj+5Sk2VuXowddnn/pvZaBQ==
+length: 5257
 -->
