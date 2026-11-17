@@ -8,6 +8,21 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <description>AZ Hockey updates</description>
         <language>en</language>
         <item>
+            <title>1.0.7</title>
+            <pubDate>Tue, 17 Nov 2026 08:40:04 +0100</pubDate>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>1.0.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[AZ Hockey 1.0.7
+
+Chances & Goals settles after it loads. Event and statistics requests no longer repeat while the page is idle.
+
+Existing coaching data is preserved.
+]]></description>
+            <enclosure url="https://github.com/frostsson/AZ-Hockey-Releases/releases/download/1.0.7/AZ-Hockey-1.0.7-update.zip" length="6847562" type="application/octet-stream" sparkle:edSignature="r+GZuYLEHAvkDIsOM+4nOB1DYnv36XDvcKmSNvrmjZc73Mqa6Kw17uhTF+4/76UcZN6kEPvCT8064udnwVjrCg=="/>
+        </item>
+        <item>
             <title>1.0.6</title>
             <pubDate>Sat, 14 Nov 2026 17:48:31 +0100</pubDate>
             <sparkle:version>10</sparkle:version>
@@ -83,6 +98,6 @@ Analyze Team Stats now counts Last 10 and Last 5 from the most recent completed 
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: a7Lk0L6M/zCGfDAComFVEa0IVHXCLxd2tlg+OPS+k54UXn0Z0bDNuMXCQFskdsFSj+5Sk2VuXowddnn/pvZaBQ==
-length: 5257
+edSignature: 5h8RFl8TohSFUNKwrtpxum//9OYEXEeih+Vbm6heOLGVCMNhxrTMVSxlmW1Pkii6ginBdlH6+prTFfTu8t/qAw==
+length: 6200
 -->
