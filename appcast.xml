@@ -8,6 +8,27 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <description>AZ Hockey updates</description>
         <language>en</language>
         <item>
+            <title>1.0.8</title>
+            <pubDate>Wed, 18 Nov 2026 16:10:39 +0100</pubDate>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[AZ Hockey 1.0.8
+
+Schedule saves remain responsive while uploads continue.
+
+Valid dotted and single-digit-hour times are accepted.
+
+Invalid times receive a correction message.
+
+Pending entries, drafts, and newer local edits are preserved during recovery.
+
+Open the disk image and drag AZ Hockey into your Applications folder, then sign in with your coach account. Installed coaches can also use Check for Updates.
+]]></description>
+            <enclosure url="https://github.com/frostsson/AZ-Hockey-Releases/releases/download/1.0.8/AZ-Hockey-1.0.8-update.zip" length="6864858" type="application/octet-stream" sparkle:edSignature="Jb3t3JlJBAg0eHOqkaGpJ11+kut/5DrVeMljPheCtiDtX/Zk4w9XaGcj+8nXl7Y9LvI8pfunbKLXfXIYE4xcBg=="/>
+        </item>
+        <item>
             <title>1.0.7</title>
             <pubDate>Tue, 17 Nov 2026 08:40:04 +0100</pubDate>
             <sparkle:version>11</sparkle:version>
@@ -98,6 +119,6 @@ Analyze Team Stats now counts Last 10 and Last 5 from the most recent completed 
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: 5h8RFl8TohSFUNKwrtpxum//9OYEXEeih+Vbm6heOLGVCMNhxrTMVSxlmW1Pkii6ginBdlH6+prTFfTu8t/qAw==
-length: 6200
+edSignature: vpmdQjypXEmGydTVWyxCJt2HkF/jzSORqxtVis+FKn3Sos3bf49PCTzfgkKmHDQLoynCIRHW92Q80KogIHGTAQ==
+length: 7390
 -->
