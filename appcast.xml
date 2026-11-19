@@ -8,6 +8,27 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <description>AZ Hockey updates</description>
         <language>en</language>
         <item>
+            <title>1.0.9</title>
+            <pubDate>Thu, 19 Nov 2026 07:26:06 +0100</pubDate>
+            <sparkle:version>15</sparkle:version>
+            <sparkle:shortVersionString>1.0.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[AZ Hockey 1.0.9
+
+A conflicting Goal or Chance no longer blocks unrelated event saves.
+
+Matching stale saves resolve automatically.
+
+Different tags require an explicit “Keep my tags” choice.
+
+That choice preserves the current draft, players, and rink marker.
+
+Open the disk image and drag AZ Hockey into your Applications folder, then sign in with your coach account. Installed coaches can also use Check for Updates.
+]]></description>
+            <enclosure url="https://github.com/frostsson/AZ-Hockey-Releases/releases/download/1.0.9/AZ-Hockey-1.0.9-update.zip" length="6927198" type="application/octet-stream" sparkle:edSignature="11Y58/vC6kokRXkKjpL156LiGzyHOx/sLukHl9BHi9o6Pdb4HlJxes2uiPZP+kBrzJhS3HHy81KcKN/NUW4+CA=="/>
+        </item>
+        <item>
             <title>1.0.8</title>
             <pubDate>Wed, 18 Nov 2026 16:10:39 +0100</pubDate>
             <sparkle:version>12</sparkle:version>
@@ -119,6 +140,6 @@ Analyze Team Stats now counts Last 10 and Last 5 from the most recent completed 
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: vpmdQjypXEmGydTVWyxCJt2HkF/jzSORqxtVis+FKn3Sos3bf49PCTzfgkKmHDQLoynCIRHW92Q80KogIHGTAQ==
-length: 7390
+edSignature: 03qxnMXOcEhGbY1fkUd2fwOJ57afqR2aMFp8S60ZvB1RTvyK4poSGn7m7w4cfLwx6JjT0B+Nh4+8D349sHmoBQ==
+length: 8588
 -->
