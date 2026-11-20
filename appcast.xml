@@ -8,6 +8,24 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <description>AZ Hockey updates</description>
         <language>en</language>
         <item>
+            <title>1.0.10</title>
+            <pubDate>Sat, 21 Nov 2026 00:19:21 +0100</pubDate>
+            <sparkle:version>16</sparkle:version>
+            <sparkle:shortVersionString>1.0.10</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[AZ Hockey 1.0.10
+
+- Schedule entries needing a time correction no longer hold up unrelated events.
+- Time corrections remain available when the upload queue is full.
+- Shared Schedule conflicts can be reviewed before choosing which version to keep.
+- Pending changes stay on your Mac while the shared calendar refreshes.
+
+Installed coaches can use AZ Hockey → Check for Updates. For a new installation, open the disk image and drag AZ Hockey into Applications.
+]]></description>
+            <enclosure url="https://github.com/frostsson/AZ-Hockey-Releases/releases/download/1.0.10/AZ-Hockey-1.0.10-update.zip" length="6903119" type="application/octet-stream" sparkle:edSignature="3utuonVFu1xPS5XOzCsXsMvs0LrA/AEd0TZz9DfyvLUWLeGRNLQCn0+ZKy0YFWRy4Jb0t2rePcGRyntJDB0tCA=="/>
+        </item>
+        <item>
             <title>1.0.9</title>
             <pubDate>Thu, 19 Nov 2026 07:26:06 +0100</pubDate>
             <sparkle:version>15</sparkle:version>
@@ -140,6 +158,6 @@ Analyze Team Stats now counts Last 10 and Last 5 from the most recent completed 
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: 03qxnMXOcEhGbY1fkUd2fwOJ57afqR2aMFp8S60ZvB1RTvyK4poSGn7m7w4cfLwx6JjT0B+Nh4+8D349sHmoBQ==
-length: 8588
+edSignature: 8cZoBDVDpQfQ4Pjq3DCV6Lmurvl4bq1uxYvef4CFvtuKNYVbW9yiTdpy1r+FF92mdnHRFLLGfpvwsdhxWXXfDQ==
+length: 9832
 -->
